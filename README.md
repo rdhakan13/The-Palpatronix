@@ -16,6 +16,8 @@ As a part of this project, a MATLAB code and a graphical user interface were pro
 
 ## Program Flowchart
 
+To run the code use `TumourDetection.m` file, which will open up the user interface.
+
 ![Diagram](Team_34_FlowChart.jpg)
 <p align="center"><b>Figure 2:</b> Program flowchart.</p>
 
