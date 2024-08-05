@@ -5,7 +5,9 @@ This project was based on a system called 'The Palpatronix'[^1], developed by Ph
 
 The Palpatronix system divides a tissue sample into a grid with x and y coordinates and then palpates the tissue using a sensory probe to collect force data in each of these coordinates. The force data is then stored in an array in a CSV file, which can then be analysed for tumours.
 
-![Diagram](coordinates.png)
+<p align="center">
+  <img src="path/to/your/image.jpg"/>
+</p>
 <p align="center"><b>Figure 1:</b> Palpatronix coordinate system.</p>
 
 A tumour in a tissue sample has a much higher stiffness than its surrounding tissue and so a very simple idea in statistics was used to identify the tumours. Data in nature is found to be normally distributed and this meant that 99% of all data in a sample lies between ±3 standard deviations. As such any data that was greater than 3 standard deviations was classed to be as an anomaly or in this case a tumour. Using this threshold, the tumours were found and their locations.  
