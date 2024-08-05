@@ -17,6 +17,6 @@ As a part of this project, a MATLAB code and a graphical user interface were pro
 ## Program Flowchart
 
 ![Diagram](Team_34_FlowChart.jpg)
-<p align="center"><b>Figure 1:</b> Program flowchart.</p>
+<p align="center"><b>Figure 2:</b> Program flowchart.</p>
 
 [^1]: https://www.dailymail.co.uk/sciencetech/article-2027041/Palpatronix-Surgeons-future-feel-tumours-key-hole-surgery-thanks-haptic-scalpel.html
